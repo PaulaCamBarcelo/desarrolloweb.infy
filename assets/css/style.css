@@ -117,7 +117,7 @@ Global Styles
     --gradient-bg: linear-gradient(135deg, #0a0a12, #151530);
     --border-color: rgba(255, 255, 255, 0.08);
     --text-description: rgba(255, 255, 255, 0.7);
-    --bg-image: url('./assets/images/dark-bg.jpg'); /* Imagen modo oscuro por defecto */
+    --bg-image: url('../images/dark-bg.jpg'); /* Imagen modo oscuro por defecto */
 }
 
 html, body {
