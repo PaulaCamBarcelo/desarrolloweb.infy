@@ -1,0 +1,46 @@
+[
+  {
+    "id": "basico",
+    "titulo": "Plan Básico",
+         "detalle": "Diseño / Desarrollo de paginas web basicas.",
+    "descripcion": "Ideal para páginas informativas o portafolios sencillos. Diseño profesional y funcional, listo para publicar rápidamente.",
+    "tipo": "🧩 Para quienes están dando sus primeros pasos en línea.",
+    "costo": "Mensual o Anual.",
+    "tiempo": "Lanzamiento Fugaz.",
+    "herramientas": ["HTML", "CSS", "JS Min."],
+    "imagen": "assets/images/work-1.jpg"
+  },
+  {
+    "id": "intermedio",
+    "titulo": "Plan Intermedio",
+        "detalle": "Diseño / Desarrollo de paginas web interactivas.",
+    "descripcion": "Perfecto para sitios con funcionalidades interactivas y diseño personalizado.",
+    "tipo": " ✨ Pensado para quienes buscan ir más allá de lo básico con un sitio moderno y dinámico. Hecho para crecer contigo: estructura flexible, diseño profesional y herramientas listas para escalar.",
+    "costo": "Mensual o Anual.",
+    "tiempo": "7 días hábiles",
+    "herramientas": ["HTML", "CSS", "JavaScript"],
+    "imagen": "assets/images/work-2.jpg"
+  },
+  {
+    "id": "avanzado",
+    "titulo": "Plan Avanzado",
+        "detalle": "plataformas con backend.",
+    "descripcion": "Pensado para plataformas con backend, autenticación y gestión dinámica. Pensado para proyectos que requieren bases de datos, autenticación de usuarios y un sistema completamente administrable.",
+    "tipo": "🚀 Perfecto para negocios que necesitan algo más que un sitio informativo.",
+    "costo": "Mensual o Anual.",
+    "tiempo": "1–2 semanas",
+    "herramientas": ["React", "Node.js", "MongoDB"],
+    "imagen": "assets/images/work-3.jpg"
+  },
+  {
+    "id": "premium",
+    "titulo": "Plan Premium",
+        "detalle": "Diseño / Desarrollo de paginas web basicas.",
+    "descripcion": "Solución completa con panel de administración, SEO y optimización avanzada. Una solución completa y profesional, lista para llevar tu proyecto al siguiente nivel.El plan más completo para proyectos que necesitan potencia, visibilidad y escalabilidad.",
+    "tipo": " 🌟  Una solución premium para marcas que quieren destacarse y crecer de forma sostenible.",
+    "costo": "Elevado",
+    "tiempo": "4–5 semanas",
+    "herramientas": ["Next.js", "Node.js", "Base de datos", "SEO"],
+    "imagen": "assets/images/work-4.jpg"
+  }
+]
